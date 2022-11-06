@@ -1,0 +1,7 @@
+Interactions and impressions: se un utente ha guardato una serie, deve valere di più del caso in cui ha solo aperto i dettagli.
+Data_ICM_length: più episodi ha guardato un utente, più gli è piaciuta la serie
+Data_ICM_Type: più serie di un tipo ha guardato di un utente, più gli piaceranno serie di quel tipo
+               se un utente ha guardato sempre pochi episodi di un determinato tipo, quel tipo non gli deve venire consigliato
+              
+- Note that the impressions can be used to improve the recommendation quality (for example as additional features, a context, 
+to estimate/reduce the recommender bias or as a negative interaction for the user) but are not used in any of the baselines. -
